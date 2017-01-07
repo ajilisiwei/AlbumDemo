@@ -1,0 +1,19 @@
+{
+  "name": "littlealbum",
+  "version": "1.0.0",
+  "description": "this is demo",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.14.0",
+    "formidable": "^1.0.17",
+    "silly-datetime": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
