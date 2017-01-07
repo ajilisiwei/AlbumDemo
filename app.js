@@ -21,5 +21,5 @@ app.post('/up',router.upLoadImg);
 app.use(function (req,res) {
     res.render('err');
 });
-
+//for test 
 app.listen(3000);
